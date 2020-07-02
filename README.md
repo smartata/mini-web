@@ -1,2 +1,2 @@
-# web-_py
-一个简单的web服务器
+# mini-web
+一个简单的mini-web框架
